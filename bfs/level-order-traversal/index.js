@@ -1,4 +1,4 @@
-import { createTree } from "../helpers/tree.js";
+import { createTree } from "../../helpers/tree.js";
 
 /**
  * @param {TreeNode} root
