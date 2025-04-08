@@ -1,6 +1,31 @@
 # LeetCode Practice
 
-This repository contains my solutions to various LeetCode problems. This is purely for practicing purposes.
+This repository contains my solutions to various LeetCode problems, organized by algorithmic approach.
+
+## Organization
+
+The problems are organized into directories based on the primary algorithm or technique used to solve them:
+
+- **Arrays**: Problems involving array manipulation
+- **Backtracking**: Problems solved using backtracking techniques
+- **Dynamic Programming**: Problems solved using dynamic programming
+- **Math**: Problems involving mathematical concepts
+- **Sliding Window**: Problems solved using the sliding window technique
+- **String**: Problems focusing on string manipulation
+- **Tree**: Problems involving tree data structures
+- **Two Pointers**: Problems solved using the two pointers technique
+
+## Running the Solutions
+
+Most solutions are written in JavaScript and can be run using Node.js:
+
+```bash
+node [directory]/[problem]/[filename].js
+```
+
+## Adding New Problems
+
+When adding new problems, place them in the appropriate algorithm directory based on the approach used to solve them.
 
 ## Repository Structure
 
