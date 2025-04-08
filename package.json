@@ -1,0 +1,15 @@
+{
+  "name": "leetcode-practice",
+  "version": "1.0.0",
+  "description": "LeetCode practice problems",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leetcode",
+    "algorithms",
+    "data structures"
+  ],
+  "author": "Daniel Osmond"
+}
